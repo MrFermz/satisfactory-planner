@@ -1,0 +1,17 @@
+export type Fuel =
+  | 'leaves'
+  | 'mycelia'
+  | 'flower-petals'
+  | 'wood'
+  | 'biomass'
+  | 'compacted-coal'
+  | 'packaged-oil'
+  | 'packaged-heavy-oil-residue'
+  | 'solid-biofuel'
+  | 'packaged-fuel'
+  | 'packaged-liquid-biofuel'
+  | 'packaged-turbofuel'
+  | 'packaged-rocket-fuel'
+  | 'packaged-ionized-fuel'
+  | 'uranium-fuel-rod'
+  | 'plutonium-fuel-rod';

@@ -1,0 +1,18 @@
+export type StandartPart =
+  | 'iron-rod'
+  | 'screw'
+  | 'iron-plate'
+  | 'reinforced-iron-plate'
+  | 'copper-sheet'
+  | 'alclad-aluminum-sheet'
+  | 'aluminum-casing'
+  | 'steel-pipe'
+  | 'steel-beam'
+  | 'encased-industrial-beam'
+  | 'modular-frame'
+  | 'heavy-modular-frame'
+  | 'fused-modular-frame'
+  | 'ficsite-trigon'
+  | 'fabric'
+  | 'plastic'
+  | 'rubber';

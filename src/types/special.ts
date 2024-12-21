@@ -1,0 +1,15 @@
+export type Special =
+  | 'hog-remains'
+  | 'splitter-remains'
+  | 'blue-power-slug'
+  | 'stinger-remains'
+  | 'hatcher-remains'
+  | 'purple-power-slug'
+  | 'yello-power-slug'
+  | 'power-shard'
+  | 'versatile-framework'
+  | 'automated-wiring'
+  | 'smart-plating'
+  | 'adaptive-control-unit'
+  | 'assembly-director-system'
+  | 'magnetic-field-generator';
